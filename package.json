@@ -40,7 +40,7 @@
     "url": "https://github.com/sintaxi/harp.git"
   },
   "dependencies": {
-    "async": "0.2.9",
+    "async": "3.2.2",
     "commander": "2.0.0",
     "connect": "3.0.0",
     "download-github-repo": "0.1.3",
